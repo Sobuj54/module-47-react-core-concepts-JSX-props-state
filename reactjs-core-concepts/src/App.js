@@ -1,12 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-// const singers = [
-//   { name: "dr. mahfuz", prof: "singer" },
-//   { name: "eva rahman", prof: "singer" },
-//   { name: "siam", prof: "actor" },
-//   { name: "araf", prof: "none" },
-// ];
+const singers = [
+  { name: "dr. mahfuz", prof: "singer" },
+  { name: "eva rahman", prof: "singer" },
+  { name: "siam", prof: "actor" },
+  { name: "araf", prof: "none" },
+];
 
 function App() {
   const persons = ["salman shah", "manna", "jasim", "bappa", "sakib"];
